@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Ammar Bin Farrukh</h1>
 <h3 align="center">Empowering innovation and fortifying defenses through the fusion of Python prowess, DevOps excellence, and cybersecurity expertise.</h3>
 
-- 🔭 I’m currently working with **Melurna Cyber Risk and Crescent Cyber Inc**
+- 🔭 I’m currently working with **Melurna Cyber Risk**
 
-- 🌱 I’m currently learning **SqlAlchemy, PowerBI, Grafana and Prometheus**
+- 🌱 I’m currently learning **SqlAlchemy, PowerBI, Redash and Apache Superset**
 
 - 👯 I’m looking to collaborate on **DevSecOps**
 
@@ -17,6 +17,7 @@
   - Ensuring OpenAPI compliance in .NET using NSwag and AutoRest
   - Python development
   - DevOps practices
+  - Different types of ORMs and MVCs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
