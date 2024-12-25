@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Ammar Bin Farrukh</h1>
 <h3 align="center">Empowering innovation and fortifying defenses through the fusion of Python prowess, DevOps excellence, and cybersecurity expertise.</h3>
 
-- 🌱 I’m currently learning **SqlAlchemy, PowerBI, Redash and Apache Superset**
-
-- 👯 I’m looking to collaborate on **DevSecOps**
-
-- 🤝 I’m looking to learn **NextJS** with someone interested 
-
 - 📫 Reach me through my LinkedIn Profile
 
 - 💻 Previously worked at Horizon Technologies and previously at Netsol Technologies.
